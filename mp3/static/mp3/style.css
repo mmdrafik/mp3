@@ -1,0 +1,11 @@
+body{
+  background-color: silver;
+}
+
+.navbar{
+  border-radius: 0;
+}
+
+.navbar-brand{
+  font-family: 'satisfy',cursive;
+}
